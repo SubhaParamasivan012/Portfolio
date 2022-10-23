@@ -1,0 +1,160 @@
+
+body
+{
+  font-family: brandon-grostesque,HelveticaNeue-Light,"Helvetica Neue Light",Helvetica,Arial,"Lucida Grande",sans-serif;
+color: #06283D;
+}
+.h1
+{
+  padding-top: 180px;
+  color: #06283D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  position: relative;
+top:80px;
+}
+.entry
+{
+  z-index: 980;
+  position: relative;
+  padding: 3em 0 0;
+  margin: 0 0 3em;
+}
+.h2
+{
+  padding-top: 20px;
+  color: #06283D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  position: relative;
+  top:80px;
+}
+.a
+{
+  position:relative;
+  top:15px;
+  left:40px;
+}
+.a1
+{
+  color: black;
+  font-size: 120%;
+  margin: 0 0 0 1em;
+  font-weight:400;
+  position:relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  top:15px;
+  left:790px;
+}
+.a1:visited{
+  color:black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.a1:hover{
+  color:white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.a1:active
+{
+  color:#1a1c22;
+  background-color: transparent;
+  text-decoration: none;
+}
+.header
+{
+  background-color: #E7F6F2;
+}
+.middle-container
+{
+  text-align: center;
+  position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    line-height: 1.42857143;
+    padding-right: 15px;
+}
+.p11{
+  height:90px;
+  width:380px;
+  text-align: left;
+  position:relative;
+  left:440px;
+  line-height: 2;
+}
+.p1
+{
+  height:90px;
+  width:460px;
+  text-align: left;
+  position:relative;
+  left:440px;
+  line-height: 2;
+
+}
+.p2
+{
+  height:90px;
+  width:310px;
+  text-align: left;
+  position:relative;
+  left:440px;
+  line-height: 2;
+}
+
+hr{
+  border-style: dotted;
+  width:6%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: thick;
+  border-color: #B4CDE6;
+}
+.container
+{
+  position: relative;
+  top:300px;
+  background-color: #06283D;
+padding:40px;
+}
+.resume{
+  float:left;
+  position: relative;
+  left:420px;
+  bottom:10px;
+}
+.foot{
+  position: relative;
+  left :270px;
+
+padding-left: 100px;
+}
+.l
+{
+  position: relative;
+  left: 80px;
+}
+.expp{
+  float:right;
+  width:15%;
+  height:15%;
+  position: relative;
+  right:350px;
+  bottom:-79px;
+}
+.skill{
+  float:right;
+  width:10%;
+  height:10%;
+  position: relative;
+  right:350px;
+
+}
